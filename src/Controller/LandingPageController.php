@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class LandingPageController extends AbstractController
 {
     /**
-     * @Route("/landing/page", name="landing_page")
+     * @Route("/", name="landing_page")
      */
     public function index()
     {
