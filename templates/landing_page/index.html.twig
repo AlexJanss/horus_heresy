@@ -3,13 +3,12 @@
 {% block title %}Horus Heresy{% endblock %}
 
 {% block body %}
-<div class="example-wrapper">
-    <h1>Hello {{ controller_name }}! ✅</h1>
+    <div class="container d-flex h-100 align-items-center">
+        <div class="mx-auto text-center">
+            <h1 class="mx-auto my-0 text-uppercase">Horus Heresy</h1>
+            <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2>
+            <a href="{{ path('app_login') }}" class="btn btn-primary js-scroll-trigger">Get Started</a>
+        </div>
+    </div>
 
-    This friendly message is coming from:
-    <ul>
-        <li>Your controller at <code><a href="{{ '/var/www/horus_heresy/src/Controller/LandingPageController.php'|file_link(0) }}">src/Controller/LandingPageController.php</a></code></li>
-        <li>Your template at <code><a href="{{ '/var/www/horus_heresy/templates/landing_page/index.html.twig'|file_link(0) }}">templates/landing_page/index.html.twig</a></code></li>
-    </ul>
-</div>
 {% endblock %}
