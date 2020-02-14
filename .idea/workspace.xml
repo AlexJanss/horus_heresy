@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02b6d60a-982d-4464-85b8-4414fc9a9dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
@@ -205,7 +205,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581149549145</updated>
       <workItem from="1581149551781" duration="5823000" />
-      <workItem from="1581321809653" duration="11441000" />
+      <workItem from="1581321809653" duration="11914000" />
     </task>
     <servers />
   </component>

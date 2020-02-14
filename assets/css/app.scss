@@ -5,12 +5,14 @@
 body {
   font-family: $fontFamilyText;
   color: $color-secondary-2-1;
-  background-color: $color-secondary-1-1;
+  background-color: $color-gray;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $fontFamilyHeading;
 }
+
+
 
 // content
 #content {
@@ -25,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   min-height: 35rem;
   padding: 15rem 0;
   background-image: url(../img/horus1.jpg);
-  background-color: gray;
+  background-color: $color-gray;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
