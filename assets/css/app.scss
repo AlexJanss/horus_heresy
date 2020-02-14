@@ -15,7 +15,17 @@ h1, h2, h3, h4, h5, h6 {
 
 // Landing
 #landing-container {
-
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+  background-image: url(../img/horus1.jpg);
+  background-color: gray;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
 }
 
 @import "~bootstrap/scss/bootstrap";
