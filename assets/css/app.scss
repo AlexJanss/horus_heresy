@@ -4,11 +4,15 @@
 // variables
 $fontFamilyHeading : 'Source Sans Pro', sans-serif;
 $fontFamilyText :'Lato', sans-serif;
+$fontColor: #dfdfdf;
 
 // Styles
 body {
   font-family: $fontFamilyText;
+  color: $fontColor;
+  background-color: darken($fontColor, 50);
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $fontFamilyHeading;
 }
