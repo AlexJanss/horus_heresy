@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02b6d60a-982d-4464-85b8-4414fc9a9dcc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +202,9 @@
       <option name="presentableId" value="Default" />
       <updated>1581149549145</updated>
       <workItem from="1581149551781" duration="5823000" />
-      <workItem from="1581321809653" duration="11914000" />
+      <workItem from="1581321809653" duration="12677000" />
+      <workItem from="1581752239530" duration="262000" />
+      <workItem from="1581752616173" duration="308000" />
     </task>
     <servers />
   </component>
@@ -217,6 +216,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="278" y="24" width="800" height="675" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581232408334" />
+    <state x="366" y="101" width="624" height="522" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581752486117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="101" width="624" height="522" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1581752486117" />
     <state x="466" y="121" width="424" height="482" key="FileChooserDialogImpl" timestamp="1581321804521">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
